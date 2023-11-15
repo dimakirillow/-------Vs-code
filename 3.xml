@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<columns>
+    <column fieldType="property" key="ActivityName" name="Название" valueType="text" weight="15" horizontalAlignment="left"/>
+    <column fieldType="property" key="ActivityPerformers" name="Исполнитель" valueType="addressbook" weight="10" horizontalAlignment="center"/>
+    <column fieldType="property" key="documentActivityState" name="Статус" valueType="text" weight="10" horizontalAlignment="center"/>
+    <column fieldType="attribute" key="act_DueTime" name="Срок исполнения" valueType="date" weight="10" horizontalAlignment="center"/>
+    <column fieldType="attribute" key="act_Text" name="Текст" valueType="text" weight="8" horizontalAlignment="center"/>
+    <column fieldType="property" key="WFLog" name="Ход исполнения" valueType="text" weight="10" horizontalAlignment="center"/>
+    <column fieldType="property" key="WFLogComment" name="Комментарий" valueType="text" weight="8" horizontalAlignment="center"/>
+</columns>
