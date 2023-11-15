@@ -1,0 +1,5 @@
+﻿<column>
+
+<field fieldType="field" key="|Document|Фактическая_дата_размещения" name="Фактическая дата размещения" valueType="datetime" />
+
+</column>
